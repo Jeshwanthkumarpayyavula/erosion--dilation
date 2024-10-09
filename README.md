@@ -26,7 +26,7 @@ Apply dilation to the original image using the same structuring element to incre
  
 ## Program:
 ``` Python
-Developed By: Jeshwanth Kumar p
+Developed By: Jeshwanth Kumar P
 Reference Number: 212223240114
 ```
 # Import the necessary packages
